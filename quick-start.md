@@ -1,6 +1,6 @@
-## Quck Start
+## Quick Start Guide for MS Hackathon 2022
 
-### How understand the current systems ?
+### What are the main systems now?
 
 Current System Introduction 👉 [AI 4 Orcas](https://ai4orcas.net/portfolio/)
 
@@ -9,9 +9,6 @@ Current System Introduction 👉 [AI 4 Orcas](https://ai4orcas.net/portfolio/)
 - [Pod.Cast annotation system](https://ai4orcas.net/portfolio/pod-cast-annotation-system/)
 - [Orca Active Learning](https://ai4orcas.net/portfolio/orca-al/)
 - [ML -- On the Edge](https://ai4orcas.net/portfolio/ml-on-the-edge/)
-
-
-
 
 
 ![](img/ai4orcas.png)  
@@ -56,13 +53,11 @@ Please use `mldata.7z` or `TrainDataLatest_PodCastAllRounds_123567910.tar.gz` as
 
 ### ✨How I can submit my work ?
 
-
 - create branch and push to github 
     - GitHub Repo: [orcasound](https://github.com/orcasound)/**[orcasound-mlops](https://github.com/orcasound/orcasound-mlops)**
 - submit PR to main branch
 - collaborate in [Teams Channel](https://teams.microsoft.com/l/channel/19%3a9e79535ad8b9490ea224fb6d2dde3fa2%40thread.skype/ML%2520Development?groupId=19add7a0-1ea1-4c28-b5b6-1d25ef5c2d79&tenantId=72f988bf-86f1-41af-91ab-2d7cd011db47)
 - Slack Hackathon Channel : [hackathons](https://orcasound.slack.com/archives/CE5797R54)
-
 
 
 ### What do Orca sound like?
